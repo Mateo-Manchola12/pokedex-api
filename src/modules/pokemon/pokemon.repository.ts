@@ -8,6 +8,8 @@ export interface PokemonRow {
   generation: number;
   hp: number;
   stats: string;
+  attack: string;
+  defense: string;
 }
 
 export interface PokemonTypeRow {

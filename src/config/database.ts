@@ -28,7 +28,9 @@ db.exec(`
     imageUrl TEXT NOT NULL,
     generation INTEGER NOT NULL,
     hp INTEGER NOT NULL,
-    stats TEXT NOT NULL
+    stats TEXT NOT NULL,
+    attack TEXT NOT NULL,
+    defense TEXT NOT NULL
   );
 
   CREATE TABLE IF NOT EXISTS PokemonPokemonType (

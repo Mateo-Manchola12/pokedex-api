@@ -65,13 +65,15 @@ const pokemons: Array<{
   hp: number;
   stats: Record<string, number>;
   typeIds: number[];
+  attack: string;
+  defense: string;
 }> = require('./pokemons.json');
 
 const insertType = db.prepare(
   'INSERT OR REPLACE INTO PokemonType (id, name, color, iconUrl) VALUES (?, ?, ?, ?)'
 );
 const insertPokemon = db.prepare(
-  'INSERT OR REPLACE INTO Pokemon (id, name, description, imageUrl, generation, hp, stats) VALUES (?, ?, ?, ?, ?, ?, ?)'
+  'INSERT OR REPLACE INTO Pokemon (id, name, description, imageUrl, generation, hp, stats, attack, defense) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)'
 );
 const insertPokemonType = db.prepare(
   'INSERT OR REPLACE INTO PokemonPokemonType (pokemonId, typeId) VALUES (?, ?)'
@@ -84,7 +86,7 @@ const seedAll = db.transaction(() => {
   console.log(`Seeded ${types.length} pokemon types`);
 
   for (const p of pokemons) {
-    insertPokemon.run(p.id, p.name, p.description, p.imageUrl, p.generation, p.hp, JSON.stringify(p.stats));
+    insertPokemon.run(p.id, p.name, p.description, p.imageUrl, p.generation, p.hp, JSON.stringify(p.stats), p.attack, p.defense);
     for (const typeId of p.typeIds) {
       insertPokemonType.run(p.id, typeId);
     }
