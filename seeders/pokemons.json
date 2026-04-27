@@ -1,0 +1,3089 @@
+[
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "typeIds": [
+        5,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+      "description": "Bulbasaur es un Pokémon de la 1ª generación. Tipo(s): Planta, Veneno.",
+      "attack": "Látigo Cepa: Hace 20 puntos de daño al oponente.",
+      "defense": "Defensa Hoja: Reduce el daño recibido en el próximo turno en 10 puntos.",
+      "hp": 45,
+      "stats": {
+        "attack": 49,
+        "defense": 49,
+        "specialAttack": 65,
+        "specialDefense": 65,
+        "speed": 45
+      },
+      "generation": 1
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "typeIds": [
+        5,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+      "description": "Ivysaur es un Pokémon de la 1ª generación. Tipo(s): Planta, Veneno.",
+      "attack": "Hoja Afilada: Inflige 30 puntos de daño. Si sale cara, paraliza al rival.",
+      "defense": "Muro Verde: Durante un turno, recibe 10 puntos menos de daño.",
+      "hp": 60,
+      "stats": {
+        "attack": 62,
+        "defense": 63,
+        "specialAttack": 80,
+        "specialDefense": 80,
+        "speed": 60
+      },
+      "generation": 1
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "typeIds": [
+        5,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+      "description": "Venusaur es un Pokémon de la 1ª generación. Tipo(s): Planta, Veneno.",
+      "attack": "Rayo Solar: Hace 50 puntos de daño. Descarta una energía de este Pokémon.",
+      "defense": "Protección Floral: Reduce el daño de ataques especiales en 20 puntos.",
+      "hp": 80,
+      "stats": {
+        "attack": 82,
+        "defense": 83,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 80
+      },
+      "generation": 1
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+      "description": "Charmander es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Ascuas: Hace 20 puntos de daño. Descarta una energía fuego.",
+      "defense": "Escudo Llama: Si este Pokémon es atacado, el rival recibe 10 puntos de daño.",
+      "hp": 39,
+      "stats": {
+        "attack": 52,
+        "defense": 43,
+        "specialAttack": 60,
+        "specialDefense": 50,
+        "speed": 65
+      },
+      "generation": 1
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+      "description": "Charmeleon es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Garra Dragón: Hace 30 puntos de daño al oponente.",
+      "defense": "Furia Ardiente: Reduce el daño recibido en 10 puntos y quema al rival si sale cara.",
+      "hp": 58,
+      "stats": {
+        "attack": 64,
+        "defense": 58,
+        "specialAttack": 80,
+        "specialDefense": 65,
+        "speed": 80
+      },
+      "generation": 1
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "typeIds": [
+        2,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "description": "Charizard es un Pokémon de la 1ª generación. Tipo(s): Fuego, Volador.",
+      "attack": "Llamarada: Hace 50 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Ala de Fuego: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 78,
+      "stats": {
+        "attack": 84,
+        "defense": 78,
+        "specialAttack": 109,
+        "specialDefense": 85,
+        "speed": 100
+      },
+      "generation": 1
+    },
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+      "description": "Squirtle es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Pistola Agua: Hace 20 puntos de daño al oponente.",
+      "defense": "Caparazón Duro: Si este Pokémon es atacado, reduce el daño en 20 puntos.",
+      "hp": 44,
+      "stats": {
+        "attack": 48,
+        "defense": 65,
+        "specialAttack": 50,
+        "specialDefense": 64,
+        "speed": 43
+      },
+      "generation": 1
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+      "description": "Wartortle es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Burbuja: Hace 30 puntos de daño y puede paralizar al rival.",
+      "defense": "Refugio Acuático: Reduce el daño de ataques tipo Fuego en 20 puntos.",
+      "hp": 59,
+      "stats": {
+        "attack": 63,
+        "defense": 80,
+        "specialAttack": 65,
+        "specialDefense": 80,
+        "speed": 58
+      },
+      "generation": 1
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+      "description": "Blastoise es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Hidro Bomba: Hace 50 puntos de daño. Si sale cara, hace 20 puntos extra.",
+      "defense": "Escudo Acorazado: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 79,
+      "stats": {
+        "attack": 83,
+        "defense": 100,
+        "specialAttack": 85,
+        "specialDefense": 105,
+        "speed": 78
+      },
+      "generation": 1
+    },
+    {
+      "id": 10,
+      "name": "Caterpie",
+      "typeIds": [
+        12
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+      "description": "Caterpie es un Pokémon de la 1ª generación. Tipo(s): Bicho.",
+      "attack": "Placaje: Hace 10 puntos de daño al oponente.",
+      "defense": "Capullo: Reduce el daño recibido en 10 puntos durante el próximo turno.",
+      "hp": 45,
+      "stats": {
+        "attack": 30,
+        "defense": 35,
+        "specialAttack": 20,
+        "specialDefense": 20,
+        "speed": 45
+      },
+      "generation": 1
+    },
+    {
+      "id": 11,
+      "name": "Metapod",
+      "typeIds": [
+        12
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "description": "Metapod es un Pokémon de la 1ª generación. Tipo(s): Bicho.",
+      "attack": "Fortaleza: No hace daño, pero aumenta la defensa en 20 puntos.",
+      "defense": "Caparazón Duro: Este Pokémon recibe 30 puntos menos de daño.",
+      "hp": 50,
+      "stats": {
+        "attack": 20,
+        "defense": 55,
+        "specialAttack": 25,
+        "specialDefense": 25,
+        "speed": 30
+      },
+      "generation": 1
+    },
+    {
+      "id": 12,
+      "name": "Butterfree",
+      "typeIds": [
+        12,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+      "description": "Butterfree es un Pokémon de la 1ª generación. Tipo(s): Bicho, Volador.",
+      "attack": "Polvo Veneno: Hace 20 puntos de daño y envenena al rival.",
+      "defense": "Viento Plata: Reduce el daño de ataques tipo Lucha en 20 puntos.",
+      "hp": 60,
+      "stats": {
+        "attack": 45,
+        "defense": 50,
+        "specialAttack": 90,
+        "specialDefense": 80,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 13,
+      "name": "Weedle",
+      "typeIds": [
+        12,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "description": "Weedle es un Pokémon de la 1ª generación. Tipo(s): Bicho, Veneno.",
+      "attack": "Picotazo Veneno: Hace 10 puntos de daño y puede envenenar al rival.",
+      "defense": "Esquiva Rápida: Si sale cara, evita todo el daño del ataque rival.",
+      "hp": 40,
+      "stats": {
+        "attack": 35,
+        "defense": 30,
+        "specialAttack": 20,
+        "specialDefense": 20,
+        "speed": 50
+      },
+      "generation": 1
+    },
+    {
+      "id": 14,
+      "name": "Kakuna",
+      "typeIds": [
+        12,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "description": "Kakuna es un Pokémon de la 1ª generación. Tipo(s): Bicho, Veneno.",
+      "attack": "Endurecer: No hace daño, pero aumenta la defensa en 20 puntos.",
+      "defense": "Caparazón Protector: Reduce el daño recibido en 20 puntos.",
+      "hp": 45,
+      "stats": {
+        "attack": 25,
+        "defense": 50,
+        "specialAttack": 25,
+        "specialDefense": 25,
+        "speed": 35
+      },
+      "generation": 1
+    },
+    {
+      "id": 15,
+      "name": "Beedrill",
+      "typeIds": [
+        12,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+      "description": "Beedrill es un Pokémon de la 1ª generación. Tipo(s): Bicho, Veneno.",
+      "attack": "Ataque Furia: Hace 40 puntos de daño. Si sale cara, repite el ataque.",
+      "defense": "Alas Rápidas: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 90,
+        "defense": 40,
+        "specialAttack": 45,
+        "specialDefense": 80,
+        "speed": 75
+      },
+      "generation": 1
+    },
+    {
+      "id": 16,
+      "name": "Pidgey",
+      "typeIds": [
+        1,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "description": "Pidgey es un Pokémon de la 1ª generación. Tipo(s): Normal, Volador.",
+      "attack": "Ataque Ala: Hace 20 puntos de daño al oponente.",
+      "defense": "Viento Protector: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 40,
+      "stats": {
+        "attack": 45,
+        "defense": 40,
+        "specialAttack": 35,
+        "specialDefense": 35,
+        "speed": 56
+      },
+      "generation": 1
+    },
+    {
+      "id": 17,
+      "name": "Pidgeotto",
+      "typeIds": [
+        1,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "description": "Pidgeotto es un Pokémon de la 1ª generación. Tipo(s): Normal, Volador.",
+      "attack": "Tornado: Hace 30 puntos de daño y puede confundir al rival.",
+      "defense": "Reflejo: Reduce el daño recibido en 20 puntos durante un turno.",
+      "hp": 63,
+      "stats": {
+        "attack": 60,
+        "defense": 55,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 71
+      },
+      "generation": 1
+    },
+    {
+      "id": 18,
+      "name": "Pidgeot",
+      "typeIds": [
+        1,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "description": "Pidgeot es un Pokémon de la 1ª generación. Tipo(s): Normal, Volador.",
+      "attack": "Huracán: Hace 50 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Veloz Defensa: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 83,
+      "stats": {
+        "attack": 80,
+        "defense": 75,
+        "specialAttack": 70,
+        "specialDefense": 70,
+        "speed": 101
+      },
+      "generation": 1
+    },
+    {
+      "id": 19,
+      "name": "Rattata",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+      "description": "Rattata es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Mordisco: Hace 20 puntos de daño al oponente.",
+      "defense": "Esquiva Ágil: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 30,
+      "stats": {
+        "attack": 56,
+        "defense": 35,
+        "specialAttack": 25,
+        "specialDefense": 35,
+        "speed": 72
+      },
+      "generation": 1
+    },
+    {
+      "id": 20,
+      "name": "Raticate",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+      "description": "Raticate es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Colmillo: Hace 40 puntos de daño. Si sale cara, paraliza al rival.",
+      "defense": "Defensa Rápida: Reduce el daño recibido en 10 puntos.",
+      "hp": 55,
+      "stats": {
+        "attack": 81,
+        "defense": 60,
+        "specialAttack": 50,
+        "specialDefense": 70,
+        "speed": 97
+      },
+      "generation": 1
+    },
+    {
+      "id": 21,
+      "name": "Spearow",
+      "typeIds": [
+        1,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+      "description": "Spearow es un Pokémon de la 1ª generación. Tipo(s): Normal, Volador.",
+      "attack": "Picotazo: Hace 20 puntos de daño al oponente.",
+      "defense": "Alas Cortantes: Reduce el daño de ataques tipo Planta en 10 puntos.",
+      "hp": 40,
+      "stats": {
+        "attack": 60,
+        "defense": 30,
+        "specialAttack": 31,
+        "specialDefense": 31,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 22,
+      "name": "Fearow",
+      "typeIds": [
+        1,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "description": "Fearow es un Pokémon de la 1ª generación. Tipo(s): Normal, Volador.",
+      "attack": "Ataque Doble: Hace 40 puntos de daño dos veces. Si sale cruz, falla uno.",
+      "defense": "Defensa Aérea: Reduce el daño de ataques tipo Eléctrico en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 90,
+        "defense": 65,
+        "specialAttack": 61,
+        "specialDefense": 61,
+        "speed": 100
+      },
+      "generation": 1
+    },
+    {
+      "id": 23,
+      "name": "Ekans",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "description": "Ekans es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Constricción: Hace 20 puntos de daño y puede envenenar al rival.",
+      "defense": "Muda Rápida: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 35,
+      "stats": {
+        "attack": 60,
+        "defense": 44,
+        "specialAttack": 40,
+        "specialDefense": 54,
+        "speed": 55
+      },
+      "generation": 1
+    },
+    {
+      "id": 24,
+      "name": "Arbok",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+      "description": "Arbok es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Cola Veneno: Hace 50 puntos de daño y envenena al rival.",
+      "defense": "Piel Dura: Si es atacado, el rival recibe 10 puntos de daño.",
+      "hp": 60,
+      "stats": {
+        "attack": 95,
+        "defense": 69,
+        "specialAttack": 65,
+        "specialDefense": 79,
+        "speed": 80
+      },
+      "generation": 1
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "typeIds": [
+        4
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "description": "Pikachu es un Pokémon de la 1ª generación. Tipo(s): Eléctrico.",
+      "attack": "Impactrueno: Hace 30 puntos de daño y puede paralizar al rival.",
+      "defense": "Agilidad: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 35,
+      "stats": {
+        "attack": 55,
+        "defense": 40,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 26,
+      "name": "Raichu",
+      "typeIds": [
+        4
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+      "description": "Raichu es un Pokémon de la 1ª generación. Tipo(s): Eléctrico.",
+      "attack": "Rayo: Hace 50 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Escudo Eléctrico: Reduce el daño de ataques tipo Agua en 20 puntos.",
+      "hp": 60,
+      "stats": {
+        "attack": 90,
+        "defense": 55,
+        "specialAttack": 90,
+        "specialDefense": 80,
+        "speed": 110
+      },
+      "generation": 1
+    },
+    {
+      "id": 27,
+      "name": "Sandshrew",
+      "typeIds": [
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "description": "Sandshrew es un Pokémon de la 1ª generación. Tipo(s): Tierra.",
+      "attack": "Excavar: Hace 30 puntos de daño y evita el daño del próximo turno si sale cara.",
+      "defense": "Armadura Arena: Reduce el daño recibido en 20 puntos.",
+      "hp": 50,
+      "stats": {
+        "attack": 75,
+        "defense": 85,
+        "specialAttack": 20,
+        "specialDefense": 30,
+        "speed": 40
+      },
+      "generation": 1
+    },
+    {
+      "id": 28,
+      "name": "Sandslash",
+      "typeIds": [
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+      "description": "Sandslash es un Pokémon de la 1ª generación. Tipo(s): Tierra.",
+      "attack": "Garra Afilada: Hace 50 puntos de daño. Si sale cara, repite el ataque.",
+      "defense": "Defensa Rápida: Reduce el daño recibido en 20 puntos y puede esquivar ataques.",
+      "hp": 75,
+      "stats": {
+        "attack": 100,
+        "defense": 110,
+        "specialAttack": 45,
+        "specialDefense": 55,
+        "speed": 65
+      },
+      "generation": 1
+    },
+    {
+      "id": 29,
+      "name": "Nidoran♀",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "description": "Nidoran♀ es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Doble Aguijón: Hace 20 puntos de daño y puede envenenar al rival.",
+      "defense": "Piel Tóxica: Si es atacado, el rival recibe 10 puntos de daño por veneno.",
+      "hp": 55,
+      "stats": {
+        "attack": 47,
+        "defense": 52,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 41
+      },
+      "generation": 1
+    },
+    {
+      "id": 30,
+      "name": "Nidorina",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+      "description": "Nidorina es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Golpe Veneno: Hace 30 puntos de daño y puede paralizar al rival.",
+      "defense": "Defensa Tóxica: Reduce el daño recibido en 10 puntos y envenena si sale cara.",
+      "hp": 70,
+      "stats": {
+        "attack": 62,
+        "defense": 67,
+        "specialAttack": 55,
+        "specialDefense": 55,
+        "speed": 56
+      },
+      "generation": 1
+    },
+    {
+      "id": 31,
+      "name": "Nidoqueen",
+      "typeIds": [
+        8,
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+      "description": "Nidoqueen es un Pokémon de la 1ª generación. Tipo(s): Veneno, Tierra.",
+      "attack": "Terremoto: Hace 60 puntos de daño a todos los rivales.",
+      "defense": "Muro de Tierra: Reduce el daño de ataques tipo Eléctrico en 30 puntos.",
+      "hp": 90,
+      "stats": {
+        "attack": 92,
+        "defense": 87,
+        "specialAttack": 75,
+        "specialDefense": 85,
+        "speed": 76
+      },
+      "generation": 1
+    },
+    {
+      "id": 32,
+      "name": "Nidoran♂",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+      "description": "Nidoran♂ es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Picotazo: Hace 20 puntos de daño y puede envenenar al rival.",
+      "defense": "Esquiva Ágil: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 46,
+      "stats": {
+        "attack": 57,
+        "defense": 40,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 50
+      },
+      "generation": 1
+    },
+    {
+      "id": 33,
+      "name": "Nidorino",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "description": "Nidorino es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Cornada: Hace 40 puntos de daño. Si sale cara, paraliza al rival.",
+      "defense": "Defensa Rápida: Reduce el daño recibido en 10 puntos.",
+      "hp": 61,
+      "stats": {
+        "attack": 72,
+        "defense": 57,
+        "specialAttack": 55,
+        "specialDefense": 55,
+        "speed": 65
+      },
+      "generation": 1
+    },
+    {
+      "id": 34,
+      "name": "Nidoking",
+      "typeIds": [
+        8,
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "description": "Nidoking es un Pokémon de la 1ª generación. Tipo(s): Veneno, Tierra.",
+      "attack": "Golpe Letal: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Muro de Hierro: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 81,
+      "stats": {
+        "attack": 102,
+        "defense": 77,
+        "specialAttack": 85,
+        "specialDefense": 75,
+        "speed": 85
+      },
+      "generation": 1
+    },
+    {
+      "id": 35,
+      "name": "Clefairy",
+      "typeIds": [
+        18
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+      "description": "Clefairy es un Pokémon de la 1ª generación. Tipo(s): Hada.",
+      "attack": "Dulce Aroma: Hace 10 puntos de daño y cura 10 puntos a este Pokémon.",
+      "defense": "Canto: Si sale cara, el rival queda dormido y no puede atacar el próximo turno.",
+      "hp": 70,
+      "stats": {
+        "attack": 45,
+        "defense": 48,
+        "specialAttack": 60,
+        "specialDefense": 65,
+        "speed": 35
+      },
+      "generation": 1
+    },
+    {
+      "id": 36,
+      "name": "Clefable",
+      "typeIds": [
+        18
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+      "description": "Clefable es un Pokémon de la 1ª generación. Tipo(s): Hada.",
+      "attack": "Doble Bofetón: Hace 40 puntos de daño dos veces.",
+      "defense": "Manto Mágico: Reduce el daño de ataques especiales en 20 puntos.",
+      "hp": 95,
+      "stats": {
+        "attack": 70,
+        "defense": 73,
+        "specialAttack": 95,
+        "specialDefense": 90,
+        "speed": 60
+      },
+      "generation": 1
+    },
+    {
+      "id": 37,
+      "name": "Vulpix",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "description": "Vulpix es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Ascuas: Hace 20 puntos de daño y puede quemar al rival.",
+      "defense": "Velo de Fuego: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 38,
+      "stats": {
+        "attack": 41,
+        "defense": 40,
+        "specialAttack": 50,
+        "specialDefense": 65,
+        "speed": 65
+      },
+      "generation": 1
+    },
+    {
+      "id": 38,
+      "name": "Ninetales",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+      "description": "Ninetales es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Llama Final: Hace 50 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Escudo Ígneo: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 73,
+      "stats": {
+        "attack": 76,
+        "defense": 75,
+        "specialAttack": 81,
+        "specialDefense": 100,
+        "speed": 100
+      },
+      "generation": 1
+    },
+    {
+      "id": 39,
+      "name": "Jigglypuff",
+      "typeIds": [
+        1,
+        18
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "description": "Jigglypuff es un Pokémon de la 1ª generación. Tipo(s): Normal, Hada.",
+      "attack": "Canto: Hace dormir al rival. Si sale cara, el rival no puede atacar el próximo turno.",
+      "defense": "Mullido: Reduce el daño recibido en 20 puntos.",
+      "hp": 115,
+      "stats": {
+        "attack": 45,
+        "defense": 20,
+        "specialAttack": 45,
+        "specialDefense": 25,
+        "speed": 20
+      },
+      "generation": 1
+    },
+    {
+      "id": 40,
+      "name": "Wigglytuff",
+      "typeIds": [
+        1,
+        18
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+      "description": "Wigglytuff es un Pokémon de la 1ª generación. Tipo(s): Normal, Hada.",
+      "attack": "Doble Bofetón: Hace 40 puntos de daño dos veces.",
+      "defense": "Manto Suave: Reduce el daño de ataques físicos en 20 puntos.",
+      "hp": 140,
+      "stats": {
+        "attack": 70,
+        "defense": 45,
+        "specialAttack": 85,
+        "specialDefense": 50,
+        "speed": 45
+      },
+      "generation": 1
+    },
+    {
+      "id": 41,
+      "name": "Zubat",
+      "typeIds": [
+        8,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+      "description": "Zubat es un Pokémon de la 1ª generación. Tipo(s): Veneno, Volador.",
+      "attack": "Supersónico: Hace 20 puntos de daño y puede confundir al rival.",
+      "defense": "Evasión Oscura: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 40,
+      "stats": {
+        "attack": 45,
+        "defense": 35,
+        "specialAttack": 30,
+        "specialDefense": 40,
+        "speed": 55
+      },
+      "generation": 1
+    },
+    {
+      "id": 42,
+      "name": "Golbat",
+      "typeIds": [
+        8,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+      "description": "Golbat es un Pokémon de la 1ª generación. Tipo(s): Veneno, Volador.",
+      "attack": "Chupavidas: Hace 40 puntos de daño y recupera 20 puntos de vida.",
+      "defense": "Alas Protectora: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 75,
+      "stats": {
+        "attack": 80,
+        "defense": 70,
+        "specialAttack": 65,
+        "specialDefense": 75,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 43,
+      "name": "Oddish",
+      "typeIds": [
+        5,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+      "description": "Oddish es un Pokémon de la 1ª generación. Tipo(s): Planta, Veneno.",
+      "attack": "Absorber: Hace 20 puntos de daño y recupera 10 puntos de vida.",
+      "defense": "Hoja Protectora: Reduce el daño de ataques tipo Agua en 10 puntos.",
+      "hp": 45,
+      "stats": {
+        "attack": 50,
+        "defense": 55,
+        "specialAttack": 75,
+        "specialDefense": 65,
+        "speed": 30
+      },
+      "generation": 1
+    },
+    {
+      "id": 44,
+      "name": "Gloom",
+      "typeIds": [
+        5,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+      "description": "Gloom es un Pokémon de la 1ª generación. Tipo(s): Planta, Veneno.",
+      "attack": "Polvo Veneno: Hace 30 puntos de daño y envenena al rival.",
+      "defense": "Muro Floral: Reduce el daño recibido en 20 puntos.",
+      "hp": 60,
+      "stats": {
+        "attack": 65,
+        "defense": 70,
+        "specialAttack": 85,
+        "specialDefense": 75,
+        "speed": 40
+      },
+      "generation": 1
+    },
+    {
+      "id": 45,
+      "name": "Vileplume",
+      "typeIds": [
+        5,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+      "description": "Vileplume es un Pokémon de la 1ª generación. Tipo(s): Planta, Veneno.",
+      "attack": "Rayo Solar: Hace 60 puntos de daño. Descarta una energía de este Pokémon.",
+      "defense": "Protección Espora: Si sale cara, el rival queda dormido.",
+      "hp": 75,
+      "stats": {
+        "attack": 80,
+        "defense": 85,
+        "specialAttack": 110,
+        "specialDefense": 90,
+        "speed": 50
+      },
+      "generation": 1
+    },
+    {
+      "id": 46,
+      "name": "Paras",
+      "typeIds": [
+        12,
+        5
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "description": "Paras es un Pokémon de la 1ª generación. Tipo(s): Bicho, Planta.",
+      "attack": "Corte: Hace 30 puntos de daño al oponente.",
+      "defense": "Esporas: Si es atacado, el rival queda dormido si sale cara.",
+      "hp": 35,
+      "stats": {
+        "attack": 70,
+        "defense": 55,
+        "specialAttack": 45,
+        "specialDefense": 55,
+        "speed": 25
+      },
+      "generation": 1
+    },
+    {
+      "id": 47,
+      "name": "Parasect",
+      "typeIds": [
+        12,
+        5
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+      "description": "Parasect es un Pokémon de la 1ª generación. Tipo(s): Bicho, Planta.",
+      "attack": "Cuchillada: Hace 50 puntos de daño. Si sale cara, repite el ataque.",
+      "defense": "Defensa Fúngica: Reduce el daño recibido en 20 puntos.",
+      "hp": 60,
+      "stats": {
+        "attack": 95,
+        "defense": 80,
+        "specialAttack": 60,
+        "specialDefense": 80,
+        "speed": 30
+      },
+      "generation": 1
+    },
+    {
+      "id": 48,
+      "name": "Venonat",
+      "typeIds": [
+        12,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "description": "Venonat es un Pokémon de la 1ª generación. Tipo(s): Bicho, Veneno.",
+      "attack": "Picotazo Veneno: Hace 20 puntos de daño y puede envenenar al rival.",
+      "defense": "Ojos Compuestos: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 60,
+      "stats": {
+        "attack": 55,
+        "defense": 50,
+        "specialAttack": 40,
+        "specialDefense": 55,
+        "speed": 45
+      },
+      "generation": 1
+    },
+    {
+      "id": 49,
+      "name": "Venomoth",
+      "typeIds": [
+        12,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+      "description": "Venomoth es un Pokémon de la 1ª generación. Tipo(s): Bicho, Veneno.",
+      "attack": "Danza Veneno: Hace 40 puntos de daño y envenena al rival.",
+      "defense": "Polvo Escudo: Reduce el daño de ataques tipo Psíquico en 20 puntos.",
+      "hp": 70,
+      "stats": {
+        "attack": 65,
+        "defense": 60,
+        "specialAttack": 90,
+        "specialDefense": 75,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 50,
+      "name": "Diglett",
+      "typeIds": [
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+      "description": "Diglett es un Pokémon de la 1ª generación. Tipo(s): Tierra.",
+      "attack": "Excavar: Hace 30 puntos de daño y evita el daño del próximo turno si sale cara.",
+      "defense": "Arena Movediza: Reduce el daño recibido en 20 puntos.",
+      "hp": 10,
+      "stats": {
+        "attack": 55,
+        "defense": 25,
+        "specialAttack": 35,
+        "specialDefense": 45,
+        "speed": 95
+      },
+      "generation": 1
+    },
+    {
+      "id": 51,
+      "name": "Dugtrio",
+      "typeIds": [
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "description": "Dugtrio es un Pokémon de la 1ª generación. Tipo(s): Tierra.",
+      "attack": "Terremoto: Hace 60 puntos de daño a todos los rivales.",
+      "defense": "Trampa Arena: Si es atacado, el rival no puede retirarse el próximo turno.",
+      "hp": 35,
+      "stats": {
+        "attack": 100,
+        "defense": 50,
+        "specialAttack": 50,
+        "specialDefense": 70,
+        "speed": 120
+      },
+      "generation": 1
+    },
+    {
+      "id": 52,
+      "name": "Meowth",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "description": "Meowth es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Arañazo: Hace 20 puntos de daño. Si sale cara, roba una carta extra.",
+      "defense": "Agilidad: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 40,
+      "stats": {
+        "attack": 45,
+        "defense": 35,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 53,
+      "name": "Persian",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+      "description": "Persian es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Garra Rápida: Hace 40 puntos de daño y puede atacar dos veces si sale cara.",
+      "defense": "Reflejo Felino: Reduce el daño recibido en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 70,
+        "defense": 60,
+        "specialAttack": 65,
+        "specialDefense": 65,
+        "speed": 115
+      },
+      "generation": 1
+    },
+    {
+      "id": 54,
+      "name": "Psyduck",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+      "description": "Psyduck es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Confusión: Hace 20 puntos de daño y puede confundir al rival.",
+      "defense": "Mente Clara: Si sale cara, evita efectos de estado este turno.",
+      "hp": 50,
+      "stats": {
+        "attack": 52,
+        "defense": 48,
+        "specialAttack": 65,
+        "specialDefense": 50,
+        "speed": 55
+      },
+      "generation": 1
+    },
+    {
+      "id": 55,
+      "name": "Golduck",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+      "description": "Golduck es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Psicoonda: Hace 40 puntos de daño y puede paralizar al rival.",
+      "defense": "Refugio Acuático: Reduce el daño de ataques tipo Fuego en 20 puntos.",
+      "hp": 80,
+      "stats": {
+        "attack": 82,
+        "defense": 78,
+        "specialAttack": 95,
+        "specialDefense": 80,
+        "speed": 85
+      },
+      "generation": 1
+    },
+    {
+      "id": 56,
+      "name": "Mankey",
+      "typeIds": [
+        7
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+      "description": "Mankey es un Pokémon de la 1ª generación. Tipo(s): Lucha.",
+      "attack": "Golpe Karate: Hace 30 puntos de daño. Si sale cara, repite el ataque.",
+      "defense": "Reflejo Lucha: Reduce el daño recibido en 10 puntos.",
+      "hp": 40,
+      "stats": {
+        "attack": 80,
+        "defense": 35,
+        "specialAttack": 35,
+        "specialDefense": 45,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 57,
+      "name": "Primeape",
+      "typeIds": [
+        7
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+      "description": "Primeape es un Pokémon de la 1ª generación. Tipo(s): Lucha.",
+      "attack": "Puño Furia: Hace 50 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Defensa Rápida: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 65,
+      "stats": {
+        "attack": 105,
+        "defense": 60,
+        "specialAttack": 60,
+        "specialDefense": 70,
+        "speed": 95
+      },
+      "generation": 1
+    },
+    {
+      "id": 58,
+      "name": "Growlithe",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+      "description": "Growlithe es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Colmillo Ígneo: Hace 40 puntos de daño y puede quemar al rival.",
+      "defense": "Pelaje Ardiente: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 55,
+      "stats": {
+        "attack": 70,
+        "defense": 45,
+        "specialAttack": 70,
+        "specialDefense": 50,
+        "speed": 60
+      },
+      "generation": 1
+    },
+    {
+      "id": 59,
+      "name": "Arcanine",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "description": "Arcanine es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Llama Rugiente: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Escudo Ígneo: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 90,
+      "stats": {
+        "attack": 110,
+        "defense": 80,
+        "specialAttack": 100,
+        "specialDefense": 80,
+        "speed": 95
+      },
+      "generation": 1
+    },
+    {
+      "id": 60,
+      "name": "Poliwag",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "description": "Poliwag es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Burbuja: Hace 20 puntos de daño y puede paralizar al rival.",
+      "defense": "Piel Resbaladiza: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 40,
+      "stats": {
+        "attack": 50,
+        "defense": 40,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 61,
+      "name": "Poliwhirl",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+      "description": "Poliwhirl es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Danza Agua: Hace 30 puntos de daño y cura 10 puntos a este Pokémon.",
+      "defense": "Refugio Acuático: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 65,
+        "defense": 65,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 62,
+      "name": "Poliwrath",
+      "typeIds": [
+        3,
+        7
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+      "description": "Poliwrath es un Pokémon de la 1ª generación. Tipo(s): Agua, Lucha.",
+      "attack": "Puño Dinámico: Hace 60 puntos de daño. Si sale cruz, este Pokémon queda confundido.",
+      "defense": "Muro de Agua: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 90,
+      "stats": {
+        "attack": 95,
+        "defense": 95,
+        "specialAttack": 70,
+        "specialDefense": 90,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 63,
+      "name": "Abra",
+      "typeIds": [
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "description": "Abra es un Pokémon de la 1ª generación. Tipo(s): Psíquico.",
+      "attack": "Teletransporte: Evita todo el daño este turno.",
+      "defense": "Barrera Psíquica: Reduce el daño de ataques tipo Lucha en 20 puntos.",
+      "hp": 25,
+      "stats": {
+        "attack": 20,
+        "defense": 15,
+        "specialAttack": 105,
+        "specialDefense": 55,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 64,
+      "name": "Kadabra",
+      "typeIds": [
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+      "description": "Kadabra es un Pokémon de la 1ª generación. Tipo(s): Psíquico.",
+      "attack": "Confusión: Hace 30 puntos de daño y puede confundir al rival.",
+      "defense": "Escudo Mental: Si sale cara, evita efectos de estado este turno.",
+      "hp": 40,
+      "stats": {
+        "attack": 35,
+        "defense": 30,
+        "specialAttack": 120,
+        "specialDefense": 70,
+        "speed": 105
+      },
+      "generation": 1
+    },
+    {
+      "id": 65,
+      "name": "Alakazam",
+      "typeIds": [
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "description": "Alakazam es un Pokémon de la 1ª generación. Tipo(s): Psíquico.",
+      "attack": "Psicorrayo: Hace 50 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Mente de Acero: Reduce el daño recibido en 20 puntos.",
+      "hp": 55,
+      "stats": {
+        "attack": 50,
+        "defense": 45,
+        "specialAttack": 135,
+        "specialDefense": 95,
+        "speed": 120
+      },
+      "generation": 1
+    },
+    {
+      "id": 66,
+      "name": "Machop",
+      "typeIds": [
+        7
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "description": "Machop es un Pokémon de la 1ª generación. Tipo(s): Lucha.",
+      "attack": "Golpe Karate: Hace 30 puntos de daño. Si sale cara, repite el ataque.",
+      "defense": "Reflejo Lucha: Reduce el daño recibido en 10 puntos.",
+      "hp": 70,
+      "stats": {
+        "attack": 80,
+        "defense": 50,
+        "specialAttack": 35,
+        "specialDefense": 35,
+        "speed": 35
+      },
+      "generation": 1
+    },
+    {
+      "id": 67,
+      "name": "Machoke",
+      "typeIds": [
+        7
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+      "description": "Machoke es un Pokémon de la 1ª generación. Tipo(s): Lucha.",
+      "attack": "Puño Furia: Hace 50 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Defensa Rápida: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 80,
+      "stats": {
+        "attack": 100,
+        "defense": 70,
+        "specialAttack": 50,
+        "specialDefense": 60,
+        "speed": 45
+      },
+      "generation": 1
+    },
+    {
+      "id": 68,
+      "name": "Machamp",
+      "typeIds": [
+        7
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+      "description": "Machamp es un Pokémon de la 1ª generación. Tipo(s): Lucha.",
+      "attack": "Sumisión: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 20 puntos de daño.",
+      "defense": "Músculos de Acero: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 90,
+      "stats": {
+        "attack": 130,
+        "defense": 80,
+        "specialAttack": 65,
+        "specialDefense": 85,
+        "speed": 55
+      },
+      "generation": 1
+    },
+    {
+      "id": 69,
+      "name": "Bellsprout",
+      "typeIds": [
+        5,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+      "description": "Bellsprout es un Pokémon de la 1ª generación. Tipo(s): Planta, Veneno.",
+      "attack": "Látigo Cepa: Hace 20 puntos de daño y puede paralizar al rival.",
+      "defense": "Hoja Protectora: Reduce el daño de ataques tipo Agua en 10 puntos.",
+      "hp": 50,
+      "stats": {
+        "attack": 75,
+        "defense": 35,
+        "specialAttack": 70,
+        "specialDefense": 30,
+        "speed": 40
+      },
+      "generation": 1
+    },
+    {
+      "id": 70,
+      "name": "Weepinbell",
+      "typeIds": [
+        5,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+      "description": "Weepinbell es un Pokémon de la 1ª generación. Tipo(s): Planta, Veneno.",
+      "attack": "Hoja Afilada: Hace 40 puntos de daño y puede confundir al rival.",
+      "defense": "Muro Verde: Durante un turno, recibe 10 puntos menos de daño.",
+      "hp": 65,
+      "stats": {
+        "attack": 90,
+        "defense": 50,
+        "specialAttack": 85,
+        "specialDefense": 45,
+        "speed": 55
+      },
+      "generation": 1
+    },
+    {
+      "id": 71,
+      "name": "Victreebel",
+      "typeIds": [
+        5,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+      "description": "Victreebel es un Pokémon de la 1ª generación. Tipo(s): Planta, Veneno.",
+      "attack": "Rayo Solar: Hace 60 puntos de daño. Descarta una energía de este Pokémon.",
+      "defense": "Protección Espora: Si sale cara, el rival queda dormido.",
+      "hp": 80,
+      "stats": {
+        "attack": 105,
+        "defense": 65,
+        "specialAttack": 100,
+        "specialDefense": 70,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 72,
+      "name": "Tentacool",
+      "typeIds": [
+        3,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+      "description": "Tentacool es un Pokémon de la 1ª generación. Tipo(s): Agua, Veneno.",
+      "attack": "Ácido: Hace 20 puntos de daño y puede bajar la defensa del rival.",
+      "defense": "Muro Acuoso: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 40,
+      "stats": {
+        "attack": 40,
+        "defense": 35,
+        "specialAttack": 50,
+        "specialDefense": 100,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 73,
+      "name": "Tentacruel",
+      "typeIds": [
+        3,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+      "description": "Tentacruel es un Pokémon de la 1ª generación. Tipo(s): Agua, Veneno.",
+      "attack": "Hidro Bomba: Hace 50 puntos de daño. Si sale cara, hace 20 puntos extra.",
+      "defense": "Escudo Acuático: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 80,
+      "stats": {
+        "attack": 70,
+        "defense": 65,
+        "specialAttack": 80,
+        "specialDefense": 120,
+        "speed": 100
+      },
+      "generation": 1
+    },
+    {
+      "id": 74,
+      "name": "Geodude",
+      "typeIds": [
+        13,
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+      "description": "Geodude es un Pokémon de la 1ª generación. Tipo(s): Roca, Tierra.",
+      "attack": "Placaje: Hace 20 puntos de daño al oponente.",
+      "defense": "Caparazón Duro: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 40,
+      "stats": {
+        "attack": 80,
+        "defense": 100,
+        "specialAttack": 30,
+        "specialDefense": 30,
+        "speed": 20
+      },
+      "generation": 1
+    },
+    {
+      "id": 75,
+      "name": "Graveler",
+      "typeIds": [
+        13,
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+      "description": "Graveler es un Pokémon de la 1ª generación. Tipo(s): Roca, Tierra.",
+      "attack": "Roca Afilada: Hace 40 puntos de daño y puede confundir al rival.",
+      "defense": "Muro de Roca: Reduce el daño recibido en 20 puntos.",
+      "hp": 55,
+      "stats": {
+        "attack": 95,
+        "defense": 115,
+        "specialAttack": 45,
+        "specialDefense": 45,
+        "speed": 35
+      },
+      "generation": 1
+    },
+    {
+      "id": 76,
+      "name": "Golem",
+      "typeIds": [
+        13,
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "description": "Golem es un Pokémon de la 1ª generación. Tipo(s): Roca, Tierra.",
+      "attack": "Avalancha: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Escudo de Piedra: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 80,
+      "stats": {
+        "attack": 120,
+        "defense": 130,
+        "specialAttack": 55,
+        "specialDefense": 65,
+        "speed": 45
+      },
+      "generation": 1
+    },
+    {
+      "id": 77,
+      "name": "Ponyta",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "description": "Ponyta es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Llama: Hace 40 puntos de daño y puede quemar al rival.",
+      "defense": "Velo de Fuego: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 50,
+      "stats": {
+        "attack": 85,
+        "defense": 55,
+        "specialAttack": 65,
+        "specialDefense": 65,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 78,
+      "name": "Rapidash",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+      "description": "Rapidash es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Fuego Fatuo: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Escudo Ígneo: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 65,
+      "stats": {
+        "attack": 100,
+        "defense": 70,
+        "specialAttack": 80,
+        "specialDefense": 80,
+        "speed": 105
+      },
+      "generation": 1
+    },
+    {
+      "id": 79,
+      "name": "Slowpoke",
+      "typeIds": [
+        3,
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+      "description": "Slowpoke es un Pokémon de la 1ª generación. Tipo(s): Agua, Psíquico.",
+      "attack": "Confusión: Hace 20 puntos de daño y puede confundir al rival.",
+      "defense": "Mente Serena: Si sale cara, evita efectos de estado este turno.",
+      "hp": 90,
+      "stats": {
+        "attack": 65,
+        "defense": 65,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 15
+      },
+      "generation": 1
+    },
+    {
+      "id": 80,
+      "name": "Slowbro",
+      "typeIds": [
+        3,
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+      "description": "Slowbro es un Pokémon de la 1ª generación. Tipo(s): Agua, Psíquico.",
+      "attack": "Psicoataque: Hace 40 puntos de daño y puede paralizar al rival.",
+      "defense": "Refugio Mental: Reduce el daño de ataques tipo Fantasma en 20 puntos.",
+      "hp": 95,
+      "stats": {
+        "attack": 75,
+        "defense": 110,
+        "specialAttack": 100,
+        "specialDefense": 80,
+        "speed": 30
+      },
+      "generation": 1
+    },
+    {
+      "id": 81,
+      "name": "Magnemite",
+      "typeIds": [
+        4,
+        17
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "description": "Magnemite es un Pokémon de la 1ª generación. Tipo(s): Eléctrico, Acero.",
+      "attack": "Impactrueno: Hace 20 puntos de daño y puede paralizar al rival.",
+      "defense": "Campo Magnético: Reduce el daño de ataques tipo Agua en 20 puntos.",
+      "hp": 25,
+      "stats": {
+        "attack": 35,
+        "defense": 70,
+        "specialAttack": 95,
+        "specialDefense": 55,
+        "speed": 45
+      },
+      "generation": 1
+    },
+    {
+      "id": 82,
+      "name": "Magneton",
+      "typeIds": [
+        4,
+        17
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+      "description": "Magneton es un Pokémon de la 1ª generación. Tipo(s): Eléctrico, Acero.",
+      "attack": "Rayo: Hace 50 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Escudo Eléctrico: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 50,
+      "stats": {
+        "attack": 60,
+        "defense": 95,
+        "specialAttack": 120,
+        "specialDefense": 70,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 83,
+      "name": "Farfetch'd",
+      "typeIds": [
+        1,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+      "description": "Farfetch'd es un Pokémon de la 1ª generación. Tipo(s): Normal, Volador.",
+      "attack": "Corte Aéreo: Hace 40 puntos de daño y puede confundir al rival.",
+      "defense": "Pluma Protectora: Reduce el daño recibido en 10 puntos.",
+      "hp": 52,
+      "stats": {
+        "attack": 90,
+        "defense": 55,
+        "specialAttack": 58,
+        "specialDefense": 62,
+        "speed": 60
+      },
+      "generation": 1
+    },
+    {
+      "id": 84,
+      "name": "Doduo",
+      "typeIds": [
+        1,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+      "description": "Doduo es un Pokémon de la 1ª generación. Tipo(s): Normal, Volador.",
+      "attack": "Picotazo Doble: Hace 20 puntos de daño dos veces.",
+      "defense": "Alas Rápidas: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 35,
+      "stats": {
+        "attack": 85,
+        "defense": 45,
+        "specialAttack": 35,
+        "specialDefense": 35,
+        "speed": 75
+      },
+      "generation": 1
+    },
+    {
+      "id": 85,
+      "name": "Dodrio",
+      "typeIds": [
+        1,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+      "description": "Dodrio es un Pokémon de la 1ª generación. Tipo(s): Normal, Volador.",
+      "attack": "Ataque Triple: Hace 30 puntos de daño tres veces.",
+      "defense": "Defensa Veloz: Reduce el daño recibido en 20 puntos.",
+      "hp": 60,
+      "stats": {
+        "attack": 110,
+        "defense": 70,
+        "specialAttack": 60,
+        "specialDefense": 60,
+        "speed": 110
+      },
+      "generation": 1
+    },
+    {
+      "id": 86,
+      "name": "Seel",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+      "description": "Seel es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Golpe Hielo: Hace 30 puntos de daño y puede congelar al rival.",
+      "defense": "Grasa Aislante: Reduce el daño de ataques tipo Fuego en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 45,
+        "defense": 55,
+        "specialAttack": 45,
+        "specialDefense": 70,
+        "speed": 45
+      },
+      "generation": 1
+    },
+    {
+      "id": 87,
+      "name": "Dewgong",
+      "typeIds": [
+        3,
+        6
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "description": "Dewgong es un Pokémon de la 1ª generación. Tipo(s): Agua, Hielo.",
+      "attack": "Viento Hielo: Hace 40 puntos de daño y puede bajar la velocidad del rival.",
+      "defense": "Manto Gélido: Reduce el daño recibido en 20 puntos.",
+      "hp": 90,
+      "stats": {
+        "attack": 70,
+        "defense": 80,
+        "specialAttack": 70,
+        "specialDefense": 95,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 88,
+      "name": "Grimer",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+      "description": "Grimer es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Lodo Tóxico: Hace 30 puntos de daño y envenena al rival.",
+      "defense": "Muro de Lodo: Reduce el daño recibido en 20 puntos.",
+      "hp": 80,
+      "stats": {
+        "attack": 80,
+        "defense": 50,
+        "specialAttack": 40,
+        "specialDefense": 50,
+        "speed": 25
+      },
+      "generation": 1
+    },
+    {
+      "id": 89,
+      "name": "Muk",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "description": "Muk es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Onda Tóxica: Hace 50 puntos de daño y envenena al rival.",
+      "defense": "Cuerpo Corrosivo: Si es atacado, el rival recibe 10 puntos de daño por veneno.",
+      "hp": 105,
+      "stats": {
+        "attack": 105,
+        "defense": 75,
+        "specialAttack": 65,
+        "specialDefense": 100,
+        "speed": 50
+      },
+      "generation": 1
+    },
+    {
+      "id": 90,
+      "name": "Shellder",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+      "description": "Shellder es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Concha Afilada: Hace 40 puntos de daño y puede aumentar la defensa de este Pokémon.",
+      "defense": "Caparazón Duro: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 30,
+      "stats": {
+        "attack": 65,
+        "defense": 100,
+        "specialAttack": 45,
+        "specialDefense": 25,
+        "speed": 40
+      },
+      "generation": 1
+    },
+    {
+      "id": 91,
+      "name": "Cloyster",
+      "typeIds": [
+        3,
+        6
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+      "description": "Cloyster es un Pokémon de la 1ª generación. Tipo(s): Agua, Hielo.",
+      "attack": "Rayo Hielo: Hace 60 puntos de daño y puede congelar al rival.",
+      "defense": "Muro Gélido: Reduce el daño recibido en 40 puntos durante un turno.",
+      "hp": 50,
+      "stats": {
+        "attack": 95,
+        "defense": 180,
+        "specialAttack": 85,
+        "specialDefense": 45,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 92,
+      "name": "Gastly",
+      "typeIds": [
+        14,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+      "description": "Gastly es un Pokémon de la 1ª generación. Tipo(s): Fantasma, Veneno.",
+      "attack": "Lengua Fantasma: Hace 30 puntos de daño y puede asustar al rival.",
+      "defense": "Niebla Oscura: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 30,
+      "stats": {
+        "attack": 35,
+        "defense": 30,
+        "specialAttack": 100,
+        "specialDefense": 35,
+        "speed": 80
+      },
+      "generation": 1
+    },
+    {
+      "id": 93,
+      "name": "Haunter",
+      "typeIds": [
+        14,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+      "description": "Haunter es un Pokémon de la 1ª generación. Tipo(s): Fantasma, Veneno.",
+      "attack": "Puño Sombra: Hace 40 puntos de daño y puede confundir al rival.",
+      "defense": "Manto Fantasmal: Reduce el daño recibido en 20 puntos.",
+      "hp": 45,
+      "stats": {
+        "attack": 50,
+        "defense": 45,
+        "specialAttack": 115,
+        "specialDefense": 55,
+        "speed": 95
+      },
+      "generation": 1
+    },
+    {
+      "id": 94,
+      "name": "Gengar",
+      "typeIds": [
+        14,
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "description": "Gengar es un Pokémon de la 1ª generación. Tipo(s): Fantasma, Veneno.",
+      "attack": "Bola Sombra: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Escudo Espectral: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 60,
+      "stats": {
+        "attack": 65,
+        "defense": 60,
+        "specialAttack": 130,
+        "specialDefense": 75,
+        "speed": 110
+      },
+      "generation": 1
+    },
+    {
+      "id": 95,
+      "name": "Onix",
+      "typeIds": [
+        13,
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "description": "Onix es un Pokémon de la 1ª generación. Tipo(s): Roca, Tierra.",
+      "attack": "Lanzarrocas: Hace 30 puntos de daño y puede bajar la velocidad del rival.",
+      "defense": "Cuerpo de Roca: Reduce el daño recibido en 40 puntos durante un turno.",
+      "hp": 35,
+      "stats": {
+        "attack": 45,
+        "defense": 160,
+        "specialAttack": 30,
+        "specialDefense": 45,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 96,
+      "name": "Drowzee",
+      "typeIds": [
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+      "description": "Drowzee es un Pokémon de la 1ª generación. Tipo(s): Psíquico.",
+      "attack": "Hipnosis: Hace dormir al rival. Si sale cara, el rival no puede atacar el próximo turno.",
+      "defense": "Mente Fuerte: Si sale cara, evita efectos de estado este turno.",
+      "hp": 60,
+      "stats": {
+        "attack": 48,
+        "defense": 45,
+        "specialAttack": 43,
+        "specialDefense": 90,
+        "speed": 42
+      },
+      "generation": 1
+    },
+    {
+      "id": 97,
+      "name": "Hypno",
+      "typeIds": [
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+      "description": "Hypno es un Pokémon de la 1ª generación. Tipo(s): Psíquico.",
+      "attack": "Psicorrayo: Hace 40 puntos de daño y puede confundir al rival.",
+      "defense": "Escudo Mental: Reduce el daño recibido en 20 puntos.",
+      "hp": 85,
+      "stats": {
+        "attack": 73,
+        "defense": 70,
+        "specialAttack": 73,
+        "specialDefense": 115,
+        "speed": 67
+      },
+      "generation": 1
+    },
+    {
+      "id": 98,
+      "name": "Krabby",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+      "description": "Krabby es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Pinza: Hace 40 puntos de daño y puede paralizar al rival.",
+      "defense": "Caparazón Duro: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 30,
+      "stats": {
+        "attack": 105,
+        "defense": 90,
+        "specialAttack": 25,
+        "specialDefense": 25,
+        "speed": 50
+      },
+      "generation": 1
+    },
+    {
+      "id": 99,
+      "name": "Kingler",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+      "description": "Kingler es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Martillazo: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Defensa Gigante: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 55,
+      "stats": {
+        "attack": 130,
+        "defense": 115,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 75
+      },
+      "generation": 1
+    },
+    {
+      "id": 100,
+      "name": "Voltorb",
+      "typeIds": [
+        4
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+      "description": "Voltorb es un Pokémon de la 1ª generación. Tipo(s): Eléctrico.",
+      "attack": "Carga: Hace 20 puntos de daño y puede paralizar al rival.",
+      "defense": "Campo Eléctrico: Reduce el daño de ataques tipo Agua en 20 puntos.",
+      "hp": 40,
+      "stats": {
+        "attack": 30,
+        "defense": 50,
+        "specialAttack": 55,
+        "specialDefense": 55,
+        "speed": 100
+      },
+      "generation": 1
+    },
+    {
+      "id": 101,
+      "name": "Electrode",
+      "typeIds": [
+        4
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+      "description": "Electrode es un Pokémon de la 1ª generación. Tipo(s): Eléctrico.",
+      "attack": "Explosión: Hace 100 puntos de daño a ambos Pokémon activos.",
+      "defense": "Carga Eléctrica: Si es atacado, el rival recibe 20 puntos de daño por retroceso.",
+      "hp": 60,
+      "stats": {
+        "attack": 50,
+        "defense": 70,
+        "specialAttack": 80,
+        "specialDefense": 80,
+        "speed": 150
+      },
+      "generation": 1
+    },
+    {
+      "id": 102,
+      "name": "Exeggcute",
+      "typeIds": [
+        5,
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+      "description": "Exeggcute es un Pokémon de la 1ª generación. Tipo(s): Planta, Psíquico.",
+      "attack": "Bomba Huevo: Hace 30 puntos de daño y puede dormir al rival.",
+      "defense": "Cáscara Dura: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 60,
+      "stats": {
+        "attack": 40,
+        "defense": 80,
+        "specialAttack": 60,
+        "specialDefense": 45,
+        "speed": 40
+      },
+      "generation": 1
+    },
+    {
+      "id": 103,
+      "name": "Exeggutor",
+      "typeIds": [
+        5,
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+      "description": "Exeggutor es un Pokémon de la 1ª generación. Tipo(s): Planta, Psíquico.",
+      "attack": "Rayo Solar: Hace 60 puntos de daño. Descarta una energía de este Pokémon.",
+      "defense": "Palmera Protectora: Reduce el daño de ataques tipo Agua en 20 puntos.",
+      "hp": 95,
+      "stats": {
+        "attack": 95,
+        "defense": 85,
+        "specialAttack": 125,
+        "specialDefense": 75,
+        "speed": 55
+      },
+      "generation": 1
+    },
+    {
+      "id": 104,
+      "name": "Cubone",
+      "typeIds": [
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+      "description": "Cubone es un Pokémon de la 1ª generación. Tipo(s): Tierra.",
+      "attack": "Hueso Palo: Hace 30 puntos de daño y puede confundir al rival.",
+      "defense": "Casco Duro: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 50,
+      "stats": {
+        "attack": 50,
+        "defense": 95,
+        "specialAttack": 40,
+        "specialDefense": 50,
+        "speed": 35
+      },
+      "generation": 1
+    },
+    {
+      "id": 105,
+      "name": "Marowak",
+      "typeIds": [
+        9
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "description": "Marowak es un Pokémon de la 1ª generación. Tipo(s): Tierra.",
+      "attack": "Huesomerang: Hace 50 puntos de daño y puede paralizar al rival.",
+      "defense": "Muro Óseo: Reduce el daño recibido en 20 puntos.",
+      "hp": 60,
+      "stats": {
+        "attack": 80,
+        "defense": 110,
+        "specialAttack": 50,
+        "specialDefense": 80,
+        "speed": 45
+      },
+      "generation": 1
+    },
+    {
+      "id": 106,
+      "name": "Hitmonlee",
+      "typeIds": [
+        7
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+      "description": "Hitmonlee es un Pokémon de la 1ª generación. Tipo(s): Lucha.",
+      "attack": "Patada Alta: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Piernas Elásticas: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 50,
+      "stats": {
+        "attack": 120,
+        "defense": 53,
+        "specialAttack": 35,
+        "specialDefense": 110,
+        "speed": 87
+      },
+      "generation": 1
+    },
+    {
+      "id": 107,
+      "name": "Hitmonchan",
+      "typeIds": [
+        7
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "description": "Hitmonchan es un Pokémon de la 1ª generación. Tipo(s): Lucha.",
+      "attack": "Puño Elemental: Hace 40 puntos de daño y elige entre Fuego, Hielo o Trueno para un efecto adicional.",
+      "defense": "Guardia Boxeo: Reduce el daño recibido en 20 puntos.",
+      "hp": 50,
+      "stats": {
+        "attack": 105,
+        "defense": 79,
+        "specialAttack": 35,
+        "specialDefense": 110,
+        "speed": 76
+      },
+      "generation": 1
+    },
+    {
+      "id": 108,
+      "name": "Lickitung",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+      "description": "Lickitung es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Lengüetazo: Hace 20 puntos de daño y puede paralizar al rival.",
+      "defense": "Cuerpo Flexible: Si sale cara, evita efectos de estado este turno.",
+      "hp": 90,
+      "stats": {
+        "attack": 55,
+        "defense": 75,
+        "specialAttack": 60,
+        "specialDefense": 75,
+        "speed": 30
+      },
+      "generation": 1
+    },
+    {
+      "id": 109,
+      "name": "Koffing",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+      "description": "Koffing es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Gas Venenoso: Hace 30 puntos de daño y envenena al rival.",
+      "defense": "Nube Tóxica: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 40,
+      "stats": {
+        "attack": 65,
+        "defense": 95,
+        "specialAttack": 60,
+        "specialDefense": 45,
+        "speed": 35
+      },
+      "generation": 1
+    },
+    {
+      "id": 110,
+      "name": "Weezing",
+      "typeIds": [
+        8
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+      "description": "Weezing es un Pokémon de la 1ª generación. Tipo(s): Veneno.",
+      "attack": "Doble Bomba: Hace 40 puntos de daño dos veces.",
+      "defense": "Cuerpo Denso: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 65,
+      "stats": {
+        "attack": 90,
+        "defense": 120,
+        "specialAttack": 85,
+        "specialDefense": 70,
+        "speed": 60
+      },
+      "generation": 1
+    },
+    {
+      "id": 111,
+      "name": "Rhyhorn",
+      "typeIds": [
+        9,
+        13
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+      "description": "Rhyhorn es un Pokémon de la 1ª generación. Tipo(s): Tierra, Roca.",
+      "attack": "Cornada: Hace 30 puntos de daño y puede confundir al rival.",
+      "defense": "Piel Rocosa: Reduce el daño recibido en 20 puntos.",
+      "hp": 80,
+      "stats": {
+        "attack": 85,
+        "defense": 95,
+        "specialAttack": 30,
+        "specialDefense": 30,
+        "speed": 25
+      },
+      "generation": 1
+    },
+    {
+      "id": 112,
+      "name": "Rhydon",
+      "typeIds": [
+        9,
+        13
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+      "description": "Rhydon es un Pokémon de la 1ª generación. Tipo(s): Tierra, Roca.",
+      "attack": "Terremoto: Hace 60 puntos de daño a todos los rivales.",
+      "defense": "Muro de Roca: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 105,
+      "stats": {
+        "attack": 130,
+        "defense": 120,
+        "specialAttack": 45,
+        "specialDefense": 45,
+        "speed": 40
+      },
+      "generation": 1
+    },
+    {
+      "id": 113,
+      "name": "Chansey",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "description": "Chansey es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Huevos Curativos: Cura 30 puntos de daño a uno de tus Pokémon.",
+      "defense": "Muro de Felicidad: Si sale cara, evita todo el daño este turno.",
+      "hp": 250,
+      "stats": {
+        "attack": 5,
+        "defense": 5,
+        "specialAttack": 35,
+        "specialDefense": 105,
+        "speed": 50
+      },
+      "generation": 1
+    },
+    {
+      "id": 114,
+      "name": "Tangela",
+      "typeIds": [
+        5
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "description": "Tangela es un Pokémon de la 1ª generación. Tipo(s): Planta.",
+      "attack": "Látigo Cepa: Hace 30 puntos de daño y puede paralizar al rival.",
+      "defense": "Enredadera Protectora: Reduce el daño de ataques tipo Agua en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 55,
+        "defense": 115,
+        "specialAttack": 100,
+        "specialDefense": 40,
+        "speed": 60
+      },
+      "generation": 1
+    },
+    {
+      "id": 115,
+      "name": "Kangaskhan",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "description": "Kangaskhan es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Puño Cometa: Hace 40 puntos de daño y puede atacar dos veces.",
+      "defense": "Protección Maternal: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 105,
+      "stats": {
+        "attack": 95,
+        "defense": 80,
+        "specialAttack": 40,
+        "specialDefense": 80,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 116,
+      "name": "Horsea",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+      "description": "Horsea es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Burbuja: Hace 20 puntos de daño y puede bajar la velocidad del rival.",
+      "defense": "Escama Protectora: Reduce el daño recibido en 10 puntos.",
+      "hp": 30,
+      "stats": {
+        "attack": 40,
+        "defense": 70,
+        "specialAttack": 70,
+        "specialDefense": 25,
+        "speed": 60
+      },
+      "generation": 1
+    },
+    {
+      "id": 117,
+      "name": "Seadra",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "description": "Seadra es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Rayo Burbuja: Hace 40 puntos de daño y puede paralizar al rival.",
+      "defense": "Muro Acuoso: Reduce el daño de ataques tipo Planta en 20 puntos.",
+      "hp": 55,
+      "stats": {
+        "attack": 65,
+        "defense": 95,
+        "specialAttack": 95,
+        "specialDefense": 45,
+        "speed": 85
+      },
+      "generation": 1
+    },
+    {
+      "id": 118,
+      "name": "Goldeen",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "description": "Goldeen es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Cornada: Hace 30 puntos de daño y puede confundir al rival.",
+      "defense": "Aleta Protectora: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 45,
+      "stats": {
+        "attack": 67,
+        "defense": 60,
+        "specialAttack": 35,
+        "specialDefense": 50,
+        "speed": 63
+      },
+      "generation": 1
+    },
+    {
+      "id": 119,
+      "name": "Seaking",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+      "description": "Seaking es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Acuacola: Hace 50 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Escama Dura: Reduce el daño recibido en 20 puntos.",
+      "hp": 80,
+      "stats": {
+        "attack": 92,
+        "defense": 65,
+        "specialAttack": 65,
+        "specialDefense": 80,
+        "speed": 68
+      },
+      "generation": 1
+    },
+    {
+      "id": 120,
+      "name": "Staryu",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "description": "Staryu es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Rayo Rápido: Hace 30 puntos de daño y puede atacar dos veces.",
+      "defense": "Núcleo Estelar: Si sale cara, evita efectos de estado este turno.",
+      "hp": 30,
+      "stats": {
+        "attack": 45,
+        "defense": 55,
+        "specialAttack": 70,
+        "specialDefense": 55,
+        "speed": 85
+      },
+      "generation": 1
+    },
+    {
+      "id": 121,
+      "name": "Starmie",
+      "typeIds": [
+        3,
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "description": "Starmie es un Pokémon de la 1ª generación. Tipo(s): Agua, Psíquico.",
+      "attack": "Hidro Bomba: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Escudo Acuático: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 60,
+      "stats": {
+        "attack": 75,
+        "defense": 85,
+        "specialAttack": 100,
+        "specialDefense": 85,
+        "speed": 115
+      },
+      "generation": 1
+    },
+    {
+      "id": 122,
+      "name": "Mr. Mime",
+      "typeIds": [
+        11,
+        18
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+      "description": "Mr. Mime es un Pokémon de la 1ª generación. Tipo(s): Psíquico, Hada.",
+      "attack": "Muro de Luz: Durante un turno, reduce el daño recibido en 30 puntos.",
+      "defense": "Barrera Mágica: Si sale cara, evita todo el daño este turno.",
+      "hp": 40,
+      "stats": {
+        "attack": 45,
+        "defense": 65,
+        "specialAttack": 100,
+        "specialDefense": 120,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 123,
+      "name": "Scyther",
+      "typeIds": [
+        12,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "description": "Scyther es un Pokémon de la 1ª generación. Tipo(s): Bicho, Volador.",
+      "attack": "Corte Cruzado: Hace 50 puntos de daño y puede atacar dos veces.",
+      "defense": "Reflejo Rápido: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 70,
+      "stats": {
+        "attack": 110,
+        "defense": 80,
+        "specialAttack": 55,
+        "specialDefense": 80,
+        "speed": 105
+      },
+      "generation": 1
+    },
+    {
+      "id": 124,
+      "name": "Jynx",
+      "typeIds": [
+        6,
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+      "description": "Jynx es un Pokémon de la 1ª generación. Tipo(s): Hielo, Psíquico.",
+      "attack": "Beso Drenaje: Hace 30 puntos de daño y cura a este Pokémon por la misma cantidad.",
+      "defense": "Velo de Hielo: Reduce el daño recibido en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 50,
+        "defense": 35,
+        "specialAttack": 115,
+        "specialDefense": 95,
+        "speed": 95
+      },
+      "generation": 1
+    },
+    {
+      "id": 125,
+      "name": "Electabuzz",
+      "typeIds": [
+        4
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+      "description": "Electabuzz es un Pokémon de la 1ª generación. Tipo(s): Eléctrico.",
+      "attack": "Puño Trueno: Hace 40 puntos de daño y puede paralizar al rival.",
+      "defense": "Campo Eléctrico: Reduce el daño de ataques tipo Agua en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 83,
+        "defense": 57,
+        "specialAttack": 95,
+        "specialDefense": 85,
+        "speed": 105
+      },
+      "generation": 1
+    },
+    {
+      "id": 126,
+      "name": "Magmar",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+      "description": "Magmar es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Llama Feroz: Hace 50 puntos de daño y puede quemar al rival.",
+      "defense": "Cuerpo Ardiente: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 65,
+      "stats": {
+        "attack": 95,
+        "defense": 57,
+        "specialAttack": 100,
+        "specialDefense": 85,
+        "speed": 93
+      },
+      "generation": 1
+    },
+    {
+      "id": 127,
+      "name": "Pinsir",
+      "typeIds": [
+        12
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+      "description": "Pinsir es un Pokémon de la 1ª generación. Tipo(s): Bicho.",
+      "attack": "Guillotina: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Pinza Fuerte: Reduce el daño recibido en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 125,
+        "defense": 100,
+        "specialAttack": 55,
+        "specialDefense": 70,
+        "speed": 85
+      },
+      "generation": 1
+    },
+    {
+      "id": 128,
+      "name": "Tauros",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+      "description": "Tauros es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Embiste Salvaje: Hace 50 puntos de daño y puede atacar dos veces.",
+      "defense": "Cuerno Protector: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 75,
+      "stats": {
+        "attack": 100,
+        "defense": 95,
+        "specialAttack": 40,
+        "specialDefense": 70,
+        "speed": 110
+      },
+      "generation": 1
+    },
+    {
+      "id": 129,
+      "name": "Magikarp",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "description": "Magikarp es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Salpicadura: No hace daño, pero si sale cara, roba una carta extra.",
+      "defense": "Escama Resistente: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 20,
+      "stats": {
+        "attack": 10,
+        "defense": 55,
+        "specialAttack": 15,
+        "specialDefense": 20,
+        "speed": 80
+      },
+      "generation": 1
+    },
+    {
+      "id": 130,
+      "name": "Gyarados",
+      "typeIds": [
+        3,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+      "description": "Gyarados es un Pokémon de la 1ª generación. Tipo(s): Agua, Volador.",
+      "attack": "Hiperrayo: Hace 80 puntos de daño. Descarta una energía de este Pokémon.",
+      "defense": "Furia Marina: Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "hp": 95,
+      "stats": {
+        "attack": 125,
+        "defense": 79,
+        "specialAttack": 60,
+        "specialDefense": 100,
+        "speed": 81
+      },
+      "generation": 1
+    },
+    {
+      "id": 131,
+      "name": "Lapras",
+      "typeIds": [
+        3,
+        6
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "description": "Lapras es un Pokémon de la 1ª generación. Tipo(s): Agua, Hielo.",
+      "attack": "Canto Helado: Hace 40 puntos de daño y puede congelar al rival.",
+      "defense": "Caparazón Gélido: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 130,
+      "stats": {
+        "attack": 85,
+        "defense": 80,
+        "specialAttack": 85,
+        "specialDefense": 95,
+        "speed": 60
+      },
+      "generation": 1
+    },
+    {
+      "id": 132,
+      "name": "Ditto",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "description": "Ditto es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Transformación: Copia el ataque del Pokémon rival este turno.",
+      "defense": "Cuerpo Maleable: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 48,
+      "stats": {
+        "attack": 48,
+        "defense": 48,
+        "specialAttack": 48,
+        "specialDefense": 48,
+        "speed": 48
+      },
+      "generation": 1
+    },
+    {
+      "id": 133,
+      "name": "Eevee",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+      "description": "Eevee es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Ataque Rápido: Hace 30 puntos de daño y puede atacar dos veces.",
+      "defense": "Adaptabilidad: Si sale cara, evita efectos de estado este turno.",
+      "hp": 55,
+      "stats": {
+        "attack": 55,
+        "defense": 50,
+        "specialAttack": 45,
+        "specialDefense": 65,
+        "speed": 55
+      },
+      "generation": 1
+    },
+    {
+      "id": 134,
+      "name": "Vaporeon",
+      "typeIds": [
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "description": "Vaporeon es un Pokémon de la 1ª generación. Tipo(s): Agua.",
+      "attack": "Aqua Jet: Hace 40 puntos de daño y puede atacar primero.",
+      "defense": "Velo Acuático: Reduce el daño recibido en 20 puntos.",
+      "hp": 130,
+      "stats": {
+        "attack": 65,
+        "defense": 60,
+        "specialAttack": 110,
+        "specialDefense": 95,
+        "speed": 65
+      },
+      "generation": 1
+    },
+    {
+      "id": 135,
+      "name": "Jolteon",
+      "typeIds": [
+        4
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+      "description": "Jolteon es un Pokémon de la 1ª generación. Tipo(s): Eléctrico.",
+      "attack": "Rayo: Hace 50 puntos de daño y puede paralizar al rival.",
+      "defense": "Campo Eléctrico: Reduce el daño de ataques tipo Agua en 20 puntos.",
+      "hp": 65,
+      "stats": {
+        "attack": 65,
+        "defense": 60,
+        "specialAttack": 110,
+        "specialDefense": 95,
+        "speed": 130
+      },
+      "generation": 1
+    },
+    {
+      "id": 136,
+      "name": "Flareon",
+      "typeIds": [
+        2
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+      "description": "Flareon es un Pokémon de la 1ª generación. Tipo(s): Fuego.",
+      "attack": "Llama Final: Hace 60 puntos de daño y puede quemar al rival.",
+      "defense": "Cuerpo Ardiente: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 65,
+      "stats": {
+        "attack": 130,
+        "defense": 60,
+        "specialAttack": 95,
+        "specialDefense": 110,
+        "speed": 65
+      },
+      "generation": 1
+    },
+    {
+      "id": 137,
+      "name": "Porygon",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+      "description": "Porygon es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Descarga: Hace 40 puntos de daño y puede paralizar al rival.",
+      "defense": "Cuerpo Digital: Si sale cara, evita efectos de estado este turno.",
+      "hp": 65,
+      "stats": {
+        "attack": 60,
+        "defense": 70,
+        "specialAttack": 85,
+        "specialDefense": 75,
+        "speed": 40
+      },
+      "generation": 1
+    },
+    {
+      "id": 138,
+      "name": "Omanyte",
+      "typeIds": [
+        13,
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+      "description": "Omanyte es un Pokémon de la 1ª generación. Tipo(s): Roca, Agua.",
+      "attack": "Burbuja: Hace 20 puntos de daño y puede bajar la velocidad del rival.",
+      "defense": "Caparazón Duro: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 35,
+      "stats": {
+        "attack": 40,
+        "defense": 100,
+        "specialAttack": 90,
+        "specialDefense": 55,
+        "speed": 35
+      },
+      "generation": 1
+    },
+    {
+      "id": 139,
+      "name": "Omastar",
+      "typeIds": [
+        13,
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+      "description": "Omastar es un Pokémon de la 1ª generación. Tipo(s): Roca, Agua.",
+      "attack": "Hidro Bomba: Hace 60 puntos de daño. Si sale cruz, este Pokémon recibe 10 puntos de daño.",
+      "defense": "Muro Acuoso: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 70,
+      "stats": {
+        "attack": 60,
+        "defense": 125,
+        "specialAttack": 115,
+        "specialDefense": 70,
+        "speed": 55
+      },
+      "generation": 1
+    },
+    {
+      "id": 140,
+      "name": "Kabuto",
+      "typeIds": [
+        13,
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "description": "Kabuto es un Pokémon de la 1ª generación. Tipo(s): Roca, Agua.",
+      "attack": "Corte Rápido: Hace 30 puntos de daño y puede atacar dos veces.",
+      "defense": "Caparazón Duro: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 30,
+      "stats": {
+        "attack": 80,
+        "defense": 90,
+        "specialAttack": 55,
+        "specialDefense": 45,
+        "speed": 55
+      },
+      "generation": 1
+    },
+    {
+      "id": 141,
+      "name": "Kabutops",
+      "typeIds": [
+        13,
+        3
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+      "description": "Kabutops es un Pokémon de la 1ª generación. Tipo(s): Roca, Agua.",
+      "attack": "Guadaña: Hace 50 puntos de daño y puede atacar dos veces.",
+      "defense": "Muro de Agua: Reduce el daño recibido en 20 puntos.",
+      "hp": 60,
+      "stats": {
+        "attack": 115,
+        "defense": 105,
+        "specialAttack": 65,
+        "specialDefense": 70,
+        "speed": 80
+      },
+      "generation": 1
+    },
+    {
+      "id": 142,
+      "name": "Aerodactyl",
+      "typeIds": [
+        13,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+      "description": "Aerodactyl es un Pokémon de la 1ª generación. Tipo(s): Roca, Volador.",
+      "attack": "Ala de Acero: Hace 60 puntos de daño y puede aumentar la defensa de este Pokémon.",
+      "defense": "Viento Protector: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 80,
+      "stats": {
+        "attack": 105,
+        "defense": 65,
+        "specialAttack": 60,
+        "specialDefense": 75,
+        "speed": 130
+      },
+      "generation": 1
+    },
+    {
+      "id": 143,
+      "name": "Snorlax",
+      "typeIds": [
+        1
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+      "description": "Snorlax es un Pokémon de la 1ª generación. Tipo(s): Normal.",
+      "attack": "Golpe Cuerpo: Hace 60 puntos de daño y puede dormir al rival.",
+      "defense": "Descanso: Si sale cara, este Pokémon recupera 30 puntos de salud.",
+      "hp": 160,
+      "stats": {
+        "attack": 110,
+        "defense": 65,
+        "specialAttack": 65,
+        "specialDefense": 110,
+        "speed": 30
+      },
+      "generation": 1
+    },
+    {
+      "id": 144,
+      "name": "Articuno",
+      "typeIds": [
+        6,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+      "description": "Articuno es un Pokémon de la 1ª generación. Tipo(s): Hielo, Volador.",
+      "attack": "Viento Hielo: Hace 40 puntos de daño y puede bajar la velocidad del rival.",
+      "defense": "Manto Gélido: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 90,
+      "stats": {
+        "attack": 85,
+        "defense": 100,
+        "specialAttack": 95,
+        "specialDefense": 125,
+        "speed": 85
+      },
+      "generation": 1
+    },
+    {
+      "id": 145,
+      "name": "Zapdos",
+      "typeIds": [
+        4,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+      "description": "Zapdos es un Pokémon de la 1ª generación. Tipo(s): Eléctrico, Volador.",
+      "attack": "Rayo: Hace 60 puntos de daño y puede paralizar al rival.",
+      "defense": "Campo Eléctrico: Reduce el daño de ataques tipo Agua en 20 puntos.",
+      "hp": 90,
+      "stats": {
+        "attack": 90,
+        "defense": 85,
+        "specialAttack": 125,
+        "specialDefense": 90,
+        "speed": 100
+      },
+      "generation": 1
+    },
+    {
+      "id": 146,
+      "name": "Moltres",
+      "typeIds": [
+        2,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+      "description": "Moltres es un Pokémon de la 1ª generación. Tipo(s): Fuego, Volador.",
+      "attack": "Llama Sagrada: Hace 60 puntos de daño y puede quemar al rival.",
+      "defense": "Cuerpo Ardiente: Si sale cara, evita el daño del próximo ataque.",
+      "hp": 90,
+      "stats": {
+        "attack": 100,
+        "defense": 90,
+        "specialAttack": 125,
+        "specialDefense": 85,
+        "speed": 90
+      },
+      "generation": 1
+    },
+    {
+      "id": 147,
+      "name": "Dratini",
+      "typeIds": [
+        15
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+      "description": "Dratini es un Pokémon de la 1ª generación. Tipo(s): Dragón.",
+      "attack": "Cola Dragón: Hace 30 puntos de daño y puede confundir al rival.",
+      "defense": "Escama Protectora: Reduce el daño recibido en 10 puntos.",
+      "hp": 41,
+      "stats": {
+        "attack": 64,
+        "defense": 45,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 50
+      },
+      "generation": 1
+    },
+    {
+      "id": 148,
+      "name": "Dragonair",
+      "typeIds": [
+        15
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+      "description": "Dragonair es un Pokémon de la 1ª generación. Tipo(s): Dragón.",
+      "attack": "Pulso Dragón: Hace 40 puntos de daño y puede paralizar al rival.",
+      "defense": "Muro de Energía: Reduce el daño recibido en 20 puntos.",
+      "hp": 61,
+      "stats": {
+        "attack": 84,
+        "defense": 65,
+        "specialAttack": 70,
+        "specialDefense": 70,
+        "speed": 70
+      },
+      "generation": 1
+    },
+    {
+      "id": 149,
+      "name": "Dragonite",
+      "typeIds": [
+        15,
+        10
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+      "description": "Dragonite es un Pokémon de la 1ª generación. Tipo(s): Dragón, Volador.",
+      "attack": "Cometa Draco: Hace 80 puntos de daño. Descarta una energía de este Pokémon.",
+      "defense": "Escudo de Dragón: Reduce el daño recibido en 30 puntos durante un turno.",
+      "hp": 91,
+      "stats": {
+        "attack": 134,
+        "defense": 95,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 80
+      },
+      "generation": 1
+    },
+    {
+      "id": 150,
+      "name": "Mewtwo",
+      "typeIds": [
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+      "description": "Mewtwo es un Pokémon de la 1ª generación. Tipo(s): Psíquico.",
+      "attack": "Psicoataque: Hace 80 puntos de daño y puede confundir al rival.",
+      "defense": "Barrera Mental: Si sale cara, evita todo el daño este turno.",
+      "hp": 106,
+      "stats": {
+        "attack": 110,
+        "defense": 90,
+        "specialAttack": 154,
+        "specialDefense": 90,
+        "speed": 130
+      },
+      "generation": 1
+    },
+    {
+      "id": 151,
+      "name": "Mew",
+      "typeIds": [
+        11
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+      "description": "Mew es un Pokémon de la 1ª generación. Tipo(s): Psíquico.",
+      "attack": "Transformación Mística: Elige cualquier ataque de un Pokémon en juego y úsalo.",
+      "defense": "Aura Protectora: Si sale cara, evita efectos de estado y daño este turno.",
+      "hp": 100,
+      "stats": {
+        "attack": 100,
+        "defense": 100,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 100
+      },
+      "generation": 1
+    }
+  ]

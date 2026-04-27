@@ -1,0 +1,110 @@
+[
+{
+  "id": 1,
+  "color": "#A8A77A",
+  "name": "Normal",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/normal.svg"
+},
+{
+  "id": 2,
+  "color": "#EE8130",
+  "name": "Fuego",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/fire.svg"
+},
+{
+  "id": 3,
+  "color": "#6390F0",
+  "name": "Agua",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/water.svg"
+},
+{
+  "id": 4,
+  "color": "#F7D02C",
+  "name": "Eléctrico",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/electric.svg"
+},
+{
+  "id": 5,
+  "color": "#7AC74C",
+  "name": "Planta",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/grass.svg"
+},
+{
+  "id": 6,
+  "color": "#96D9D6",
+  "name": "Hielo",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/ice.svg"
+},
+{
+  "id": 7,
+  "color": "#C22E28",
+  "name": "Lucha",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/fighting.svg"
+},
+{
+  "id": 8,
+  "color": "#A33EA1",
+  "name": "Veneno",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/poison.svg"
+},
+{
+  "id": 9,
+  "color": "#E2BF65",
+  "name": "Tierra",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/ground.svg"
+},
+{
+  "id": 10,
+  "color": "#A98FF3",
+  "name": "Volador",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/flying.svg"
+},
+{
+  "id": 11,
+  "color": "#F95587",
+  "name": "Psíquico",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/psychic.svg"
+},
+{
+  "id": 12,
+  "color": "#A6B91A",
+  "name": "Bicho",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/bug.svg"
+},
+{
+  "id": 13,
+  "color": "#B6A136",
+  "name": "Roca",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/rock.svg"
+},
+{
+  "id": 14,
+  "color": "#735797",
+  "name": "Fantasma",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/ghost.svg"
+},
+{
+  "id": 15,
+  "color": "#6F35FC",
+  "name": "Dragón",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/dragon.svg"
+},
+{
+  "id": 16,
+  "color": "#705746",
+  "name": "Siniestro",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/dark.svg"
+},
+{
+  "id": 17,
+  "color": "#B7B7CE",
+  "name": "Acero",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/steel.svg"
+},
+{
+  "id": 18,
+  "color": "#D685AD",
+  "name": "Hada",
+  "iconUrl": "https://raw.githubusercontent.com/duiker101/pokemon-type-svg-icons/master/icons/fairy.svg"
+}
+]
